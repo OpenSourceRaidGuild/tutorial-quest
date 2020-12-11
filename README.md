@@ -13,3 +13,5 @@
 ## Communication
 1. Primarily www.kentcdodds.com/discord #oss-raid-group channel
 2. Projects tab per Repo we are working on, to kanban who is working on what to prevent redudant work or stepping on toes
+
+## Workflow

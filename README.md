@@ -35,7 +35,7 @@ When you are:
 Then we can determine responsibilities and get you running as either an Org member or Collab (reduced permissions)
 
 ## The Process :fire:
-### `Find Target` :face_with_monocle: `Communicate` :satellite: `Raid` :crossed_swords: `Push Code` :tada:
+### `Find Target` :dart: `Communicate` :satellite: `Raid` :crossed_swords: `Push Code` :tada:
 
 One Raid at a time to maximize impact in short amount of time.
 

@@ -1,4 +1,4 @@
-# Hi :wave:, Welcome to the OSS Raid Group :crossed_swords:
+# Hi :wave: Welcome to the OSS Raid Group :crossed_swords:
 
 The OSS Raid Group is what happens when you combine MMORPGs, Programming, and Open Source Software - a group dedicated to defeating the Raid Bosses of OSS
 
@@ -6,8 +6,9 @@ For those who aren't aware of these 'gamer' terms, and even those that are; here
 
 | Phrase    | Definition |
 | --------- | ---------- |
-| Raid      | A Raid is the OSS project's issue that we are working to resolve - see how we [converted react-hooks-testing-library to TypeScript](https://github.com/testing-library/react-hooks-testing-library/pull/520) for an example |
+| Raid | A Raid is the OSS project's issue that we are working to resolve - see how we [converted react-hooks-testing-library to TypeScript](https://github.com/testing-library/react-hooks-testing-library/pull/520) for an example |
 | Raid Boss | The Raid Boss is the issue that we are 'fighting' to resolve |
+| Raid Group | The collective noun for all contributors to the Raid |
 
 ## Storyline Quest (mission) :scroll:
 
@@ -17,7 +18,7 @@ For those who aren't aware of these 'gamer' terms, and even those that are; here
   2. Medium to high usage of the OSS 
   3. Our impact can be potentially high; in a few days
 
-## Join Us! :smiling_face_with_three_hearts::partying_face:
+## Join Us! :smiling_face_with_three_hearts:
 
 Anoyone is welcome to participate in the raids; just raise an issue in the current raid repo, and [...TBD]
 
@@ -43,8 +44,8 @@ One Raid at a time to maximize impact in short amount of time.
 
 We primarily communicate via [Discord][discord] in the `OSS-RAID-GROUP` category
 
-1. Primarily www.kentcdodds.com/discord OSS-RAID-GROUP Category, #:bee:-raid-general
-2. Projects tab per Repo we are working on, to kanban who is working on what to prevent redudant work or stepping on toes.
+<!--1. Primarily www.kentcdodds.com/discord OSS-RAID-GROUP Category, #:bee:-raid-general
+2. Projects tab per Repo we are working on, to kanban who is working on what to prevent redudant work or stepping on toes.-->
 
 
 [discord]: https://kentcdodds.com/discord/

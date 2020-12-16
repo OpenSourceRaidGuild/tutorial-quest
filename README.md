@@ -65,4 +65,4 @@ When participating in a Raid, use the following steps.
 5. Create a PR titled the same as your issue, and a desciption of `Fixes #{ISSUE_NO}` - [like this PR for example](https://github.com/kcdraidgroup/hospitalrun-frontend/pull/8)
 
 
-[discord]: https://kentcdodds.com/discord/
+[discord]: https://discord.com/invite/MN55aDny

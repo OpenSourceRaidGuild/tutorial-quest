@@ -11,7 +11,7 @@ For those who aren't aware of these 'gamer' terms, and even those that are; here
 | Raid | A Raid is the OSS project's issue that we are working to resolve - see how we [converted react-hooks-testing-library to TypeScript](https://github.com/testing-library/react-hooks-testing-library/pull/520) for an example |
 | Raid Boss | The Raid Boss is the issue that we are 'fighting' to resolve |
 | Raid Group | The collective noun for all contributors to the Raid |
-| Raid Repo | The repository for the current Raid |
+| Raid Repo | The repository for the current Raid that has been forked into the kcdraidgroup Org |
 
 ## Storyline Quest (mission) :scroll:
 

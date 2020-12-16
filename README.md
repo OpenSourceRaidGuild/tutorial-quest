@@ -42,7 +42,7 @@ Anoyone is welcome to participate in our Raids - no matter your experience level
 
 When you are:
 * Actively contributing to Raids
-* Being an active community member on the [KCD Discord][discord]
+* Being an active community member on the KCD Discord Server
 
 Then we can determine responsibilities and get you running as either an Org member or Collab (reduced permissions)
 

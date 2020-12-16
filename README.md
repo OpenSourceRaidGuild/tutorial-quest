@@ -18,8 +18,13 @@ For those who aren't aware of these 'gamer' terms, and even those that are; here
 Objectives:
 
 * To make contributing to OSS enjoyable, engaging, and with a low barrier-to-entry for those who have never done it before
-* To gamify the process of mob programming OSS issues
 * To have a high impact in a small amount of time; specifically targetting low-medium contributor activity, medium-high usage of the project, with only a handful of maintainers
+
+What it's about:
+
+* It's about winning the Raid as a group, not about who made the biggest contribution(s)
+* It's about learning together; teaching each other
+* It's about having fun and getting into something you may not have done on your own
 
 <!-- Previous points
 - Themed from MMORPG gaming, gamifiying Mob programming OSS repos

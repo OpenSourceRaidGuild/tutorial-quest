@@ -19,7 +19,7 @@ Objectives:
 
 * To make contributing to OSS enjoyable, engaging, and with a low barrier-to-entry for those who have never done it before
 * To gamify the process of mob programming OSS issues
-* To have a high impact in a small amount of time; specifically targetting low-medium contributor activity, medium-hgih usage of the project, with only a handful of maintainers
+* To have a high impact in a small amount of time; specifically targetting low-medium contributor activity, medium-high usage of the project, with only a handful of maintainers
 
 <!-- Previous points
 - Themed from MMORPG gaming, gamifiying Mob programming OSS repos

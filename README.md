@@ -2,6 +2,8 @@
 
 ### `Find Target` :dart: `Communicate` :satellite: `Raid` :crossed_swords: `Push Code` :tada:
 
+[![All Contributors](https://img.shields.io/github/all-contributors/kcdraidgroup/kcdraidgroup?color=orange&style=flat-square)](#contributors)
+
 The OSS Raid Group is what happens when you combine MMORPGs, Programming, and Open Source Software - a group dedicated to defeating the Raid Bosses of OSS!
 
 For those who aren't aware of these 'gamer' terms, and even those that are; here are the definitions we use when operating as a Raid Group.
@@ -71,3 +73,41 @@ When participating in a Raid, use the following steps.
 
 
 [discord]: https://kcd.im/discord
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://dev.to/jacobmgevans"><img src="https://avatars1.githubusercontent.com/u/27247160?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jacob M-G Evans</b></sub></a><br /><a href="#raids-crossed_swords" title="Raider">⚔</a> <a href="#ideas-JacobMGEvans" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/nobrayner"><img src="https://avatars2.githubusercontent.com/u/40751395?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Braydon Hall</b></sub></a><br /><a href="#raids-crossed_swords" title="Raider">⚔</a> <a href="#ideas-nobrayner" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-nobrayner" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/juhanakristian"><img src="https://avatars1.githubusercontent.com/u/544386?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Juhana Jauhiainen</b></sub></a><br /><a href="#raids-crossed_swords" title="Raider">⚔</a> <a href="#ideas-juhanakristian" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/merodiro"><img src="https://avatars1.githubusercontent.com/u/17033502?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Amr A.Mohammed</b></sub></a><br /><a href="#raids-crossed_swords" title="Raider">⚔</a> <a href="#ideas-merodiro" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://tigerabrodi.dev/"><img src="https://avatars1.githubusercontent.com/u/49603590?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tiger Abrodi</b></sub></a><br /><a href="#raids-crossed_swords" title="Raider">⚔</a> <a href="#ideas-tigerabrodi" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/marcosvega91"><img src="https://avatars2.githubusercontent.com/u/5365582?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Marco Moretti</b></sub></a><br /><a href="#raids-crossed_swords" title="Raider">⚔</a></td>
+    <td align="center"><a href="http://peter.hozak.info/"><img src="https://avatars0.githubusercontent.com/u/1087670?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Peter Hozák</b></sub></a><br /><a href="#raids-crossed_swords" title="Raider">⚔</a> <a href="#ideas-Aprillion" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/TheGallery"><img src="https://avatars1.githubusercontent.com/u/3214876?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Joseph Psychas</b></sub></a><br /><a href="#raids-crossed_swords" title="Raider">⚔</a></td>
+    <td align="center"><a href="https://github.com/proful"><img src="https://avatars2.githubusercontent.com/u/354596?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Proful Sadangi</b></sub></a><br /><a href="#raids-crossed_swords" title="Raider">⚔</a> <a href="#ideas-proful" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/tsuki42"><img src="https://avatars2.githubusercontent.com/u/22864071?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sudhanshu</b></sub></a><br /><a href="#raids-crossed_swords" title="Raider">⚔</a></td>
+    <td align="center"><a href="https://github.com/mpeyper"><img src="https://avatars0.githubusercontent.com/u/23029903?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michael Peyper</b></sub></a><br /><a href="#raids-crossed_swords" title="Raider">⚔</a> <a href="#ideas-mpeyper" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-mpeyper" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    <td align="center"><a href="https://github.com/emma-r-slight"><img src="https://avatars0.githubusercontent.com/u/60733989?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Emma </b></sub></a><br /><a href="#raids-crossed_swords" title="Raider">⚔</a> <a href="#ideas-emma-r-slight" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://twitter.com/ZiedTouibi"><img src="https://avatars3.githubusercontent.com/u/15978090?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zied.Touibi</b></sub></a><br /><a href="#raids-crossed_swords" title="Raider">⚔</a> <a href="#ideas-ziedtouibi" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-ziedtouibi" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/kiranjd"><img src="https://avatars2.githubusercontent.com/u/25822851?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kiran Jd</b></sub></a><br /><a href="#raids-crossed_swords" title="Raider">⚔</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/codyarose"><img src="https://avatars1.githubusercontent.com/u/35306025?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Cody Rose</b></sub></a><br /><a href="#raids-crossed_swords" title="Raider">⚔</a> <a href="#ideas-codyarose" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

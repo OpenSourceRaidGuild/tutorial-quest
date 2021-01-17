@@ -1,0 +1,172 @@
+{
+  "projectName": "kcdraidgroup",
+  "projectOwner": "kcdraidgroup",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "none",
+  "skipCi": true,
+  "contributorsPerLine": 7,
+  "types": {
+    "raider": {
+      "symbol": "⚔",
+      "description": "Raider",
+      "link": "#raids-crossed_swords"
+    }
+  },
+  "contributors": [
+    {
+      "login": "JacobMGEvans",
+      "name": "Jacob M-G Evans",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/27247160?v=4",
+      "profile": "https://dev.to/jacobmgevans",
+      "contributions": [
+        "raider",
+        "ideas"
+      ]
+    },
+    {
+      "login": "nobrayner",
+      "name": "Braydon Hall",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/40751395?v=4",
+      "profile": "https://github.com/nobrayner",
+      "contributions": [
+        "raider",
+        "ideas",
+        "content"
+      ]
+    },
+    {
+      "login": "juhanakristian",
+      "name": "Juhana Jauhiainen",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/544386?v=4",
+      "profile": "https://github.com/juhanakristian",
+      "contributions": [
+        "raider",
+        "ideas"
+      ]
+    },
+    {
+      "login": "merodiro",
+      "name": "Amr A.Mohammed",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/17033502?v=4",
+      "profile": "https://github.com/merodiro",
+      "contributions": [
+        "raider",
+        "ideas"
+      ]
+    },
+    {
+      "login": "tigerabrodi",
+      "name": "Tiger Abrodi",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/49603590?v=4",
+      "profile": "https://tigerabrodi.dev/",
+      "contributions": [
+        "raider",
+        "ideas"
+      ]
+    },
+    {
+      "login": "marcosvega91",
+      "name": "Marco Moretti",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5365582?v=4",
+      "profile": "https://github.com/marcosvega91",
+      "contributions": [
+        "raider"
+      ]
+    },
+    {
+      "login": "Aprillion",
+      "name": "Peter Hozák",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1087670?v=4",
+      "profile": "http://peter.hozak.info/",
+      "contributions": [
+        "raider",
+        "ideas"
+      ]
+    },
+    {
+      "login": "TheGallery",
+      "name": "Joseph Psychas",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3214876?v=4",
+      "profile": "https://github.com/TheGallery",
+      "contributions": [
+        "raider"
+      ]
+    },
+    {
+      "login": "proful",
+      "name": "Proful Sadangi",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/354596?v=4",
+      "profile": "https://github.com/proful",
+      "contributions": [
+        "raider",
+        "ideas"
+      ]
+    },
+    {
+      "login": "tsuki42",
+      "name": "Sudhanshu",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/22864071?v=4",
+      "profile": "https://github.com/tsuki42",
+      "contributions": [
+        "raider"
+      ]
+    },
+    {
+      "login": "mpeyper",
+      "name": "Michael Peyper",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/23029903?v=4",
+      "profile": "https://github.com/mpeyper",
+      "contributions": [
+        "raider",
+        "ideas",
+        "infra"
+      ]
+    },
+    {
+      "login": "emma-r-slight",
+      "name": "Emma ",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/60733989?v=4",
+      "profile": "https://github.com/emma-r-slight",
+      "contributions": [
+        "raider",
+        "ideas"
+      ]
+    },
+    {
+      "login": "ziedtouibi",
+      "name": "Zied.Touibi",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/15978090?v=4",
+      "profile": "https://twitter.com/ZiedTouibi",
+      "contributions": [
+        "raider",
+        "ideas",
+        "design"
+      ]
+    },
+    {
+      "login": "kiranjd",
+      "name": "Kiran Jd",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/25822851?v=4",
+      "profile": "https://github.com/kiranjd",
+      "contributions": [
+        "raider"
+      ]
+    },
+    {
+      "login": "codyarose",
+      "name": "Cody Rose",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/35306025?v=4",
+      "profile": "https://github.com/codyarose",
+      "contributions": [
+        "raider",
+        "ideas"
+      ]
+    }
+  ]
+}

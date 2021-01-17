@@ -2,7 +2,7 @@
 
 ### `Find Target` :dart: `Communicate` :satellite: `Raid` :crossed_swords: `Push Code` :tada:
 
-[![All Contributors](https://img.shields.io/github/all-contributors/kcdraidgroup/kcdraidgroup?color=orange&style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/github/all-contributors/OpenSourceRaidGuild/first-quest?color=orange&style=flat-square)](#contributors)
 
 The OSS Raid Group is what happens when you combine MMORPGs, Programming, and Open Source Software - a group dedicated to defeating the Raid Bosses of OSS!
 
@@ -13,7 +13,7 @@ For those who aren't aware of these 'gamer' terms, and even those that are; here
 | Raid | A Raid is the OSS project's issue that we are working to resolve - see how we [converted react-hooks-testing-library to TypeScript](https://github.com/testing-library/react-hooks-testing-library/pull/520) for an example |
 | Raid Boss | The Raid Boss is the issue that we are 'fighting' to resolve |
 | Raid Group | The collective noun for all contributors to the Raid |
-| Raid Repo | The repository for the current Raid that has been forked into the kcdraidgroup Org |
+| Raid Repo | The repository for the current Raid that has been forked into the OpenSourceRaidGuild Org |
 
 ## Storyline Quest (mission) :scroll:
 
@@ -69,7 +69,7 @@ When participating in a Raid, use the following steps.
 2. Fork the Raid Repo
 3. Create a branch named after your GitHub username - e.g. `nobrayner`
 4. Hack away :sunglasses::computer:
-5. Create a PR titled the same as your issue, and a desciption of `Fixes #{ISSUE_NO}` - [like this PR for example](https://github.com/kcdraidgroup/hospitalrun-frontend/pull/8)
+5. Create a PR titled the same as your issue, and a desciption of `Fixes #{ISSUE_NO}` - [like this PR for example](https://github.com/OpenSourceRaidGuild/hospitalrun-frontend/pull/8)
 
 
 [discord]: https://kcd.im/discord

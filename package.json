@@ -1,9 +1,9 @@
 {
-  "name": "kcdraidgroup",
+  "name": "first-quest",
   "private": true,
   "description": "Find Target 🎯 Communicate 📡 Raid ⚔️ Push Code 🎉",
   "license": "UNLICENSED",
-  "repository": "https://github.com/kcdraidgroup/kcdraidgroup.git",
+  "repository": "https://github.com/OpenSourceRaidGuild/first-quest.git",
   "scripts": {
     "contributors:add": "all-contributors add",
     "contributors:generate": "all-contributors generate"

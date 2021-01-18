@@ -1,4 +1,4 @@
-# Hi :wave: Welcome to the OSS Raid Group :crossed_swords:
+# Hi :wave: Welcome to the Open Source Raid Guild :crossed_swords:
 
 ### `Find Target` :dart: `Communicate` :satellite: `Raid` :crossed_swords: `Push Code` :tada:
 
@@ -12,7 +12,7 @@ For those who aren't aware of these 'gamer' terms, and even those that are; here
 | --------- | ---------- |
 | Raid | A Raid is the OSS project's issue that we are working to resolve - see how we [converted react-hooks-testing-library to TypeScript](https://github.com/testing-library/react-hooks-testing-library/pull/520) for an example |
 | Raid Boss | The Raid Boss is the issue that we are 'fighting' to resolve |
-| Raid Group | The collective noun for all contributors to the Raid |
+| Raid Guild | The collective noun for all contributors to the Raid |
 | Raid Repo | The repository for the current Raid that has been forked into the OpenSourceRaidGuild Org |
 
 ## Storyline Quest (mission) :scroll:
@@ -59,7 +59,7 @@ Then we can determine responsibilities and get you running as either an Org memb
 
 ### Communication
 
-We primarily communicate via [Discord][discord] in the `OSS-RAID-GROUP` category
+We primarily communicate via [Discord][discord] in the `OSS-RAID` category
 
 ### Workflow
 

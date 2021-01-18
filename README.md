@@ -6,7 +6,7 @@
 
 The OSS Raid Group is what happens when you combine MMORPGs, Programming, and Open Source Software - a group dedicated to defeating the Raid Bosses of OSS!
 
-For those who aren't aware of these 'gamer' terms, and even those that are; here are the definitions we use when operating as a Raid Group.
+For those who aren't aware of these 'gamer' terms, and even those that are; here are the definitions we use when operating as a Raid Guild.
 
 | Phrase    | Definition |
 | --------- | ---------- |

@@ -1,4 +1,4 @@
-# Hi :wave: Welcome to the OSS Raid Guild :crossed_swords:
+# Hi :wave: Welcome to the Open Source Raid Guild :crossed_swords:
 
 ### `Find Target` :dart: `Communicate` :satellite: `Raid` :crossed_swords: `Push Code` :tada:
 

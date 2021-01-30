@@ -167,6 +167,33 @@
         "raider",
         "ideas"
       ]
+    },
+    {
+      "login": "datner",
+      "name": "Datner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22598347?v=4",
+      "profile": "https://github.com/datner",
+      "contributions": [
+        "raider"
+      ]
+    },
+    {
+      "login": "AhmedEldessouki",
+      "name": "Ahmed ElDessouki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44158955?v=4",
+      "profile": "https://ahmedeldessouki-a7488.firebaseapp.com/",
+      "contributions": [
+        "raider"
+      ]
+    },
+    {
+      "login": "abeprincec",
+      "name": "abeprincec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16880975?v=4",
+      "profile": "https://github.com/abeprincec",
+      "contributions": [
+        "raider"
+      ]
     }
   ]
 }

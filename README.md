@@ -102,6 +102,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/codyarose"><img src="https://avatars1.githubusercontent.com/u/35306025?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Cody Rose</b></sub></a><br /><a href="#raids-crossed_swords" title="Raider">⚔</a> <a href="#ideas-codyarose" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/datner"><img src="https://avatars.githubusercontent.com/u/22598347?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Datner</b></sub></a><br /><a href="#raids-crossed_swords" title="Raider">⚔</a></td>
+    <td align="center"><a href="https://ahmedeldessouki-a7488.firebaseapp.com/"><img src="https://avatars.githubusercontent.com/u/44158955?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ahmed ElDessouki</b></sub></a><br /><a href="#raids-crossed_swords" title="Raider">⚔</a></td>
+    <td align="center"><a href="https://github.com/abeprincec"><img src="https://avatars.githubusercontent.com/u/16880975?v=4?s=100" width="100px;" alt=""/><br /><sub><b>abeprincec</b></sub></a><br /><a href="#raids-crossed_swords" title="Raider">⚔</a></td>
   </tr>
 </table>
 

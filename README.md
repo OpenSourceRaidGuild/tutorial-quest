@@ -8,31 +8,31 @@ The OSS Raid Group is what happens when you combine MMORPGs, Programming, and Op
 
 For those who aren't aware of these 'gamer' terms, and even those that are; here are the definitions we use when operating as a Raid Guild.
 
-| Phrase    | Definition |
-| --------- | ---------- |
-| Raid | A Raid is the OSS project's issue that we are working to resolve - see how we [converted react-hooks-testing-library to TypeScript](https://github.com/testing-library/react-hooks-testing-library/pull/520) for an example |
-| Raid Boss | The Raid Boss is the issue that we are 'fighting' to resolve |
-| Raid Guild | The collective noun for all contributors to the Raid |
-| Raid Repo | The repository for the current Raid that has been forked into the OpenSourceRaidGuild Org |
+| Phrase     | Definition                                                                                                                                                                                                                  |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Raid       | A Raid is the OSS project's issue that we are working to resolve - see how we [converted react-hooks-testing-library to TypeScript](https://github.com/testing-library/react-hooks-testing-library/pull/520) for an example |
+| Raid Boss  | The Raid Boss is the issue that we are 'fighting' to resolve                                                                                                                                                                |
+| Raid Guild | The collective noun for all contributors to the Raid                                                                                                                                                                        |
+| Raid Repo  | The repository for the current Raid that has been forked into the OpenSourceRaidGuild Org                                                                                                                                   |
 
 ## Storyline Quest (mission) :scroll:
 
 Objectives:
 
-* To make contributing to OSS enjoyable, engaging, and with a low barrier-to-entry for those who have never done it before
-* To have a high impact in a small amount of time; specifically targetting low-medium contributor activity, medium-high usage of the project, with only a handful of maintainers
+- To make contributing to OSS enjoyable, engaging, and with a low barrier-to-entry for those who have never done it before
+- To have a high impact in a small amount of time; specifically targetting low-medium contributor activity, medium-high usage of the project, with only a handful of maintainers
 
 What it's about:
 
-* It's about winning the Raid as a group, not about who made the biggest contribution(s)
-* It's about learning together; teaching each other
-* It's about having fun and getting into something you may not have done on your own
+- It's about winning the Raid as a group, not about who made the biggest contribution(s)
+- It's about learning together; teaching each other
+- It's about having fun and getting into something you may not have done on your own
 
 <!-- Previous points
 - Themed from MMORPG gaming, gamifiying Mob programming OSS repos
-- Look for criteria in OSS repos 
+- Look for criteria in OSS repos
   1. Low to medium contributor activity, only a handful of maintainers
-  2. Medium to high usage of the OSS 
+  2. Medium to high usage of the OSS
   3. Our impact can be potentially high; in a few days
 -->
 
@@ -48,14 +48,15 @@ Anyone is welcome to participate in our Raids - no matter your experience level!
 ### Advancements
 
 When you are:
-* Actively contributing to Raids
-* Being an active community member on the KCD Discord Server
+
+- Actively contributing to Raids
+- Being an active community member on the KCD Discord Server
 
 Then we can determine responsibilities and get you running as either an Org member or Collab (reduced permissions)
 
 ## Raids :crossed_swords:
 
-* One Raid at a time to maximize impact in a short amount of time.
+- One Raid at a time to maximize impact in a short amount of time.
 
 ### Communication
 
@@ -71,8 +72,7 @@ When participating in a Raid, use the following steps.
 4. Hack away :sunglasses::computer:
 5. Create a PR titled the same as your issue, and a desciption of `Fixes #{ISSUE_NO}` - [like this PR for example](https://github.com/OpenSourceRaidGuild/hospitalrun-frontend/pull/8)
 
-
-[discord]: https://kcd.im/discord
+[discord]: https://discord.gg/m5U24z92Va
 
 ## Contributors ✨
 

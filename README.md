@@ -69,7 +69,7 @@ Then we can determine responsibilities and get you running as either an outside 
 When participating in a Raid, use the following steps.
 
 1. Raise an issue in the Raid repo with a one-liner title describing what you are working on - for example `Migrate page-header/breadcrumbs tests to testing-library`
-2. Fork the Raid Repo ([Git Documentation](./git.md))
+2. Fork the Raid Repo ([Raid Git Workflow](./git.md))
 3. Create a branch named after your GitHub username - e.g. `nobrayner`
 4. Hack away :sunglasses::computer:
 5. Create a PR titled the same as your issue, and a description of `Fixes #{ISSUE_NO}` - [like this PR for example](https://github.com/OpenSourceRaidGuild/hospitalrun-frontend/pull/8)

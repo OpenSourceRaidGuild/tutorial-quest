@@ -2,6 +2,7 @@
 # Hi :wave: Welcome to the Open Source Raid Guild :crossed_swords:
 
 **`Find Target` :dart: `Communicate` :satellite: `Raid` :crossed_swords: `Push Code` :tada:**
+
 [![All Contributors](https://img.shields.io/github/all-contributors/OpenSourceRaidGuild/first-quest?color=orange&style=flat-square)](#contributors)
 
 The OSS Raid Group is what happens when you combine MMORPGs (Gamification), Mob Programming, Crowdsourcing, and Open Source Software - a group dedicated to defeating the Raid Bosses of OSS!

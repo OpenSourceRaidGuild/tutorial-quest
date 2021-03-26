@@ -108,7 +108,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://ahmedeldessouki-a7488.firebaseapp.com/"><img src="https://avatars.githubusercontent.com/u/44158955?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ahmed ElDessouki</b></sub></a><br /><a href="#raids-crossed_swords" title="OSRG Guild Member">⚔</a></td>
     <td align="center"><a href="https://github.com/abeprincec"><img src="https://avatars.githubusercontent.com/u/16880975?v=4?s=100" width="100px;" alt=""/><br /><sub><b>abeprincec</b></sub></a><br /><a href="#raids-crossed_swords" title="OSRG Guild Member">⚔</a></td>
     <td align="center"><a href="https://github.com/MohitPopli"><img src="https://avatars.githubusercontent.com/u/17976072?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mohit</b></sub></a><br /><a href="#ideas-MohitPopli" title="Ideas, Planning, & Feedback">🤔</a> <a href="#raids-crossed_swords" title="OSRG Guild Member">⚔</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/ypazevedo/"><img src="https://avatars.githubusercontent.com/u/56167866?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yago Pereira Azevedo</b></sub></a><br /><a href="#ideas-YPAzevedo" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/ypazevedo/"><img src="https://avatars.githubusercontent.com/u/56167866?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yago Pereira Azevedo</b></sub></a><br /><a href="#ideas-YPAzevedo" title="Ideas, Planning, & Feedback">🤔</a> <a href="#raids-crossed_swords" title="OSRG Guild Member">⚔</a></td>
   </tr>
 </table>
 

@@ -12,7 +12,7 @@
   "skipCi": true,
   "contributorsPerLine": 7,
   "types": {
-    "raider": {
+    "guild": {
       "symbol": "⚔",
       "description": "OSRG Guild Member",
       "link": "#raids-crossed_swords"
@@ -25,7 +25,7 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/27247160?v=4",
       "profile": "https://dev.to/jacobmgevans",
       "contributions": [
-        "raider",
+        "guild",
         "ideas",
         "doc",
         "infra"
@@ -37,7 +37,7 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/40751395?v=4",
       "profile": "https://github.com/nobrayner",
       "contributions": [
-        "raider",
+        "guild",
         "ideas",
         "content",
         "doc",
@@ -50,7 +50,7 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/544386?v=4",
       "profile": "https://github.com/juhanakristian",
       "contributions": [
-        "raider",
+        "guild",
         "ideas"
       ]
     },
@@ -60,7 +60,7 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/17033502?v=4",
       "profile": "https://github.com/merodiro",
       "contributions": [
-        "raider",
+        "guild",
         "ideas"
       ]
     },
@@ -70,7 +70,7 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/49603590?v=4",
       "profile": "https://tigerabrodi.dev/",
       "contributions": [
-        "raider",
+        "guild",
         "ideas"
       ]
     },
@@ -80,7 +80,7 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/5365582?v=4",
       "profile": "https://github.com/marcosvega91",
       "contributions": [
-        "raider"
+        "guild"
       ]
     },
     {
@@ -89,7 +89,7 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/1087670?v=4",
       "profile": "http://peter.hozak.info/",
       "contributions": [
-        "raider",
+        "guild",
         "ideas"
       ]
     },
@@ -99,7 +99,7 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/3214876?v=4",
       "profile": "https://github.com/TheGallery",
       "contributions": [
-        "raider"
+        "guild"
       ]
     },
     {
@@ -108,7 +108,7 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/354596?v=4",
       "profile": "https://github.com/proful",
       "contributions": [
-        "raider",
+        "guild",
         "ideas"
       ]
     },
@@ -118,7 +118,7 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/22864071?v=4",
       "profile": "https://github.com/tsuki42",
       "contributions": [
-        "raider"
+        "guild"
       ]
     },
     {
@@ -127,7 +127,7 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/23029903?v=4",
       "profile": "https://github.com/mpeyper",
       "contributions": [
-        "raider",
+        "guild",
         "ideas",
         "infra"
       ]
@@ -138,7 +138,7 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/60733989?v=4",
       "profile": "https://github.com/emma-r-slight",
       "contributions": [
-        "raider",
+        "guild",
         "ideas"
       ]
     },
@@ -148,7 +148,7 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/15978090?v=4",
       "profile": "https://twitter.com/ZiedTouibi",
       "contributions": [
-        "raider",
+        "guild",
         "ideas",
         "design"
       ]
@@ -159,7 +159,7 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/25822851?v=4",
       "profile": "https://github.com/kiranjd",
       "contributions": [
-        "raider"
+        "guild"
       ]
     },
     {
@@ -168,7 +168,7 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/35306025?v=4",
       "profile": "https://github.com/codyarose",
       "contributions": [
-        "raider",
+        "guild",
         "ideas"
       ]
     },
@@ -178,7 +178,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/22598347?v=4",
       "profile": "https://github.com/datner",
       "contributions": [
-        "raider"
+        "guild"
       ]
     },
     {
@@ -187,7 +187,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/44158955?v=4",
       "profile": "https://ahmedeldessouki-a7488.firebaseapp.com/",
       "contributions": [
-        "raider"
+        "guild"
       ]
     },
     {
@@ -196,7 +196,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/16880975?v=4",
       "profile": "https://github.com/abeprincec",
       "contributions": [
-        "raider"
+        "guild"
       ]
     },
     {
@@ -206,7 +206,7 @@
       "profile": "https://github.com/MohitPopli",
       "contributions": [
         "ideas",
-        "raider"
+        "guild"
       ]
     },
     {
@@ -215,7 +215,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/56167866?v=4",
       "profile": "https://www.linkedin.com/in/ypazevedo/",
       "contributions": [
-        "ideas"
+        "ideas",
+        "guild"
       ]
     }
   ]

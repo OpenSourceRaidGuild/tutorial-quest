@@ -44,9 +44,8 @@ Anyone is welcome to participate in our Raids - no matter your experience level!
 
 ### Intake Quests
 
-1. Say hello to your fellow raiders in the #:bee:-raid-general channel on [Discord][discord]
-2. Fork the current Raid Repo from the [Organization](https://github.com/OpenSourceRaidGuild)
-3. [Raise your first issue against a raid, and start contributing!](https://github.com/OpenSourceRaidGuild/tutorial-quest#workflow)
+1. Say hello to your fellow Guild Members in [Discord][discord]
+2. [Jump into a Raid, and start contributing!](https://github.com/OpenSourceRaidGuild/tutorial-quest#workflow)
 
 ### Advancements
 

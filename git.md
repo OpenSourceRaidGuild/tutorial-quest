@@ -1,4 +1,4 @@
-# GIT commands for the successful Guild Member
+# Useful GIT commands for Guild Members
 
 ---
 

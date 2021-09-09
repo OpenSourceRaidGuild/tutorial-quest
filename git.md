@@ -1,4 +1,4 @@
-# Useful GIT commands for Guild Members
+# Useful GIT commands & workflow for Guild Members
 
 ---
 

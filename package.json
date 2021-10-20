@@ -5,8 +5,8 @@
   "license": "UNLICENSED",
   "repository": "https://github.com/OpenSourceRaidGuild/first-quest.git",
   "scripts": {
-    "contributors:add": "all-contributors add",
-    "contributors:generate": "all-contributors generate"
+    "add": "all-contributors add",
+    "generate": "all-contributors generate"
   },
   "devDependencies": {
     "all-contributors-cli": "^6.19.0"

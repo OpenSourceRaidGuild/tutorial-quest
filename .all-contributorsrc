@@ -23,11 +23,13 @@
       "login": "JacobMGEvans",
       "name": "Jacob M-G Evans",
       "avatar_url": "https://avatars1.githubusercontent.com/u/27247160?v=4",
-      "profile": "https://dev.to/jacobmgevans",
+      "profile": "https://twitter.com/JacobMGEvans",
       "contributions": [
         "guild",
         "ideas",
+        "content",
         "doc",
+        "bug",
         "infra"
       ]
     },
@@ -40,6 +42,18 @@
         "guild",
         "ideas",
         "content",
+        "doc",
+        "infra"
+      ]
+    },
+    {
+      "login": "TheoBr",
+      "name": "Theo Browne",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6751787?v=4",
+      "profile": "https://github.com/TheoBr",
+      "contributions": [
+        "guild",
+        "ideas",
         "doc",
         "infra"
       ]

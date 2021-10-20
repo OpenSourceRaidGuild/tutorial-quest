@@ -8,13 +8,14 @@ The OSS Raid Group is what happens when you combine MMORPGs (Gamification), Mob 
 
 For those who aren't aware of these 'gamer' terms, and even those that are; here are the definitions we use when operating as a Raid Guild.
 
-| Phrase     | Definition                                                                                                                                                                                                                  |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Raid       | A Raid is the OSS project's issue that we are working to resolve - see how we [converted react-hooks-testing-library to TypeScript](https://github.com/testing-library/react-hooks-testing-library/pull/520) for an example |
-| Raid Boss  | The Raid Boss is the large issue/problem domain that we are 'fighting' to resolve |
-| Open Source Raid Guild (OSRG) | The collective noun for all contributors to the Raid |
-| Raid Repo | The repository for the current Raid that has been forked into the OpenSourceRaidGuild Org |
-| Dungeon | The working fork repository that the Raid is operating inside of; multiple Raids can occur in one Dungeon but only one Raid at a time |
+| Phrase                        | Definition                                                                                                                                                                                                                  |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Raid                          | A Raid is the OSS project's issue that we are working to resolve - see how we [converted react-hooks-testing-library to TypeScript](https://github.com/testing-library/react-hooks-testing-library/pull/520) for an example |
+| Raid Boss                     | The Raid Boss is the large issue/problem domain that we are 'fighting' to resolve                                                                                                                                           |
+| Open Source Raid Guild (OSRG) | The collective noun for all contributors to the Raid                                                                                                                                                                        |
+| Raid Repo                     | The repository for the current Raid that has been forked into the OpenSourceRaidGuild Org                                                                                                                                   |
+| Dungeon                       | The working fork repository that the Raid is operating inside of; multiple Raids can occur in one Dungeon but only one Raid at a time                                                                                       |
+
 ## Storyline Quest (mission) :scroll:
 
 Objectives:
@@ -25,10 +26,10 @@ Objectives:
 What it's about:
 
 - It's about winning the Raid as a group, not about who made the biggest contribution(s).
-- It's about learning together; teaching each other, flattening the learning curve. 
+- It's about learning together; teaching each other, flattening the learning curve.
 - It's about having fun and getting into something you may not have done on your own.
 - Its's about lowering or even removing the bar of entry for OSS contributing for everyone.
-- Most of all it is about having FUN! 
+- Most of all it is about having FUN!
 
 <!-- Previous points
 - Themed from MMORPG gaming, gamifiying Mob programming OSS repositories
@@ -55,14 +56,15 @@ When you are:
 - Being an active community member on the OSRG Discord Server
 
 Then we can determine responsibilities and get you running as either an outside collaborator on new Raids, eventually becoming a member on the Raid Org
+
 ## Raids :crossed_swords:
 
 - One Raid at a time to maximize impact in a short amount of time.
 
-### Communication :satellite: 
+### Communication :satellite:
 
-* We primarily communicate via [Discord][discord]
-* Guild Roles are assigned to individuals based on time, activity in Raids and contributions to OSRG as a whole, everyone starts off as an Guild Initiate who joins.
+- We primarily communicate via [Discord][discord]
+- Guild Roles are assigned to individuals based on time, activity in Raids and contributions to OSRG as a whole, everyone starts off as an Guild Initiate who joins.
 
 ### Workflow
 

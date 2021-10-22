@@ -1,14 +1,23 @@
 {
-  "name": "first-quest",
-  "private": true,
+  "name": "tutorial-quest",
   "description": "Find Target 🎯 Communicate 📡 Raid ⚔️ Push Code 🎉",
-  "license": "UNLICENSED",
-  "repository": "https://github.com/OpenSourceRaidGuild/first-quest.git",
+  "repository": "https://github.com/OpenSourceRaidGuild/tutorial-quest",
+  "private": true,
   "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
     "add": "all-contributors add",
     "generate": "all-contributors generate"
   },
+  "dependencies": {
+    "@docsearch/react": "^1.0.0-alpha.27"
+  },
   "devDependencies": {
-    "all-contributors-cli": "^6.19.0"
+    "astro": "^0.20.12",
+    "@snowpack/plugin-dotenv": "^2.2.0",
+    "@astrojs/renderer-preact": "^0.2.2",
+    "all-contributors-cli": "^6.20.0"
   }
 }

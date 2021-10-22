@@ -33,6 +33,7 @@ export const COMMUNITY_INVITE_URL = `https://discord.gg/urQuPURusm`;
 
 export const SIDEBAR = {
   en: [
+    { text: "", header: true },
     { text: "Introduction", link: "docs/en/introduction" },
     { text: "Raid Workflow", link: "docs/en/raid-git-workflow" },
 

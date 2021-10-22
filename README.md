@@ -1,6 +1,7 @@
+
 # Hi :wave: Welcome to the Open Source Raid Guild :crossed_swords:
 
-### `Find Target` :dart: `Communicate` :satellite: `Raid` :crossed_swords: `Push Code` :tada:
+**`Find Target` :dart: `Communicate` :satellite: `Raid` :crossed_swords: `Push Code` :tada:**
 
 [![All Contributors](https://img.shields.io/github/all-contributors/OpenSourceRaidGuild/first-quest?color=orange&style=flat-square)](#contributors)
 
@@ -40,6 +41,7 @@ What it's about:
 -->
 
 ## Join Us! :smiling_face_with_three_hearts:
+**Website:** https://osrg.t3.gg/
 
 Anyone is welcome to participate in our Raids - no matter your experience level! Never contributed to an OSS project? No worries! We are all learning something or another, so come along for the ride!
 

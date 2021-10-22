@@ -10,7 +10,8 @@ import * as CONFIG from "../config.ts";
 
 const { content = {} } = Astro.props;
 const currentPage = Astro.request.url.pathname;
-const currentFile = `src/pages${currentPage.replace(/\/$/, "")}.md`;
+const currentFile = `src/pages/${currentPage.replace(/\/$/, "")}.md`;
+console.dir({ currentPage, currentFile });
 const githubEditUrl = CONFIG.GITHUB_EDIT_URL && (CONFIG.GITHUB_EDIT_URL + currentFile);
 ---
 
@@ -119,4 +120,5 @@ const githubEditUrl = CONFIG.GITHUB_EDIT_URL && (CONFIG.GITHUB_EDIT_URL + curren
       </aside>
     </main>
   </body>
+  <Footer />
 </html>

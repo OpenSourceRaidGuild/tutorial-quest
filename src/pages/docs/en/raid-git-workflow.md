@@ -1,3 +1,9 @@
+---
+title: Raid Git Workflow
+description: OSRG Raid Git Workflow
+layout: ../../../layouts/MainLayout.astro
+---
+
 # GIT commands for the successful Guild Member
 
 ---

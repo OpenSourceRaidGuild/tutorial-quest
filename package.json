@@ -13,8 +13,13 @@
   },
   "dependencies": {
     "@docsearch/react": "^1.0.0-alpha.27",
+    "@silvenon/remark-smartypants": "^1.0.0",
     "@tailwindcss/typography": "^0.4.1",
-    "remark-emoji": "^3.0.1"
+    "rehype-autolink-headings": "^6.1.0",
+    "remark-emoji": "^3.0.1",
+    "remark-gfm": "^3.0.0",
+    "remark-sectionize": "^1.1.1",
+    "remark-slug": "^7.0.0"
   },
   "devDependencies": {
     "@astrojs/renderer-preact": "^0.2.2",

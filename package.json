@@ -15,9 +15,12 @@
     "@docsearch/react": "^1.0.0-alpha.27"
   },
   "devDependencies": {
-    "astro": "^0.20.12",
-    "@snowpack/plugin-dotenv": "^2.2.0",
     "@astrojs/renderer-preact": "^0.2.2",
-    "all-contributors-cli": "^6.20.0"
+    "@snowpack/plugin-dotenv": "^2.2.0",
+    "all-contributors-cli": "^6.20.0",
+    "astro": "^0.20.12",
+    "autoprefixer": "^10.3.7",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.17"
   }
 }

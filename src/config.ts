@@ -1,15 +1,14 @@
 export const SITE = {
   title: "Open Source Raid Guild -- Tutorial Quest",
-  description: "Your website description.",
+  description:
+    "The OSS Raid Group is what happens when you combine MMORPGs (Gamification), Mob Programming, Crowdsourcing, and Open Source Software - a group dedicated to defeating the Raid Bosses of OSS",
   defaultLanguage: "en_US",
 };
 
 export const OPEN_GRAPH = {
   image: {
-    src: "https://github.com/snowpackjs/astro/blob/main/assets/social/banner.jpg?raw=true",
-    alt:
-      "astro logo on a starry expanse of space," +
-      " with a purple saturn-like planet floating in the right foreground",
+    src: "https://osrg.t3.gg/assets/logo-full.svg",
+    alt: "Koala with cross swords, OSRG Open Source Raid Guild, Shield behind whole image",
   },
   twitter: "O_S_R_G",
 };

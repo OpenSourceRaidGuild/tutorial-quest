@@ -43,7 +43,8 @@
         "ideas",
         "content",
         "doc",
-        "infra"
+        "infra",
+        "tool"
       ]
     },
     {
@@ -143,7 +144,8 @@
       "contributions": [
         "guild",
         "ideas",
-        "infra"
+        "infra",
+        "tool"
       ]
     },
     {
@@ -231,6 +233,16 @@
       "contributions": [
         "ideas",
         "guild"
+      ]
+    },
+    {
+      "login": "johnson-jesse",
+      "name": "Jesse Alan Johnson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10335064?v=4",
+      "profile": "https://github.com/johnson-jesse",
+      "contributions": [
+        "guild",
+        "code"
       ]
     }
   ]

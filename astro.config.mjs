@@ -15,6 +15,11 @@ export default /** @type {import('astro').AstroUserConfig} */ ({
     "@astrojs/renderer-react",
   ],
   devOptions: {
-    tailwindConfig: '/tailwind.config.js'
+    tailwindConfig: './tailwind.config.js',
+  },
+  markdownOptions: {
+    remarkPlugins: [
+      [import('remark-emoji'), { behavior: 'prepend'}]
+    ]
   }
 });

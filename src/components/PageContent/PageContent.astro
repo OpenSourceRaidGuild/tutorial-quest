@@ -6,14 +6,7 @@ import MoreMenu from '../RightSidebar/MoreMenu.astro';
 import TableOfContents from '../RightSidebar/TableOfContents.tsx';
 ---
 <style>
-      .content {
-        padding: 0;
-        max-width: 75ch;
-        width: 100%;
-        height: 100%;
-        display: flex;
-        flex-direction: column;
-      }
+
       .content > section {
         margin-bottom: 4rem;
       }
@@ -27,13 +20,13 @@ import TableOfContents from '../RightSidebar/TableOfContents.tsx';
         }
       }
 </style>
-<article id="article" class="content">
+<article id="article">
     <section class="main-section">
         <h1 class="content-title" id="overview">{title}</h1>
         <nav class="block sm:hidden">
             <TableOfContents client:media="(max-width: 50em)" headers={headers}/>
         </nav>
-        <slot />
+        <slot class="" />
     </section>
     <nav class="block sm:hidden">
         <MoreMenu editHref={githubEditUrl}/>

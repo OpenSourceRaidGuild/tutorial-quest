@@ -14,4 +14,12 @@ export default /** @type {import('astro').AstroUserConfig} */ ({
     // Enable the React renderer, for the Algolia search component
     "@astrojs/renderer-react",
   ],
+  devOptions: {
+    tailwindConfig: './tailwind.config.js',
+  },
+  markdownOptions: {
+    remarkPlugins: [
+      [import('remark-emoji'), { behavior: 'prepend'}]
+    ]
+  }
 });

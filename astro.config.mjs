@@ -18,8 +18,8 @@ export default /** @type {import('astro').AstroUserConfig} */ ({
     tailwindConfig: './tailwind.config.js',
   },
   markdownOptions: {
-    remarkPlugins: [
-      [import('remark-emoji'), { behavior: 'prepend'}]
-    ]
+    remarkPlugins: 
+    ['remark-emoji', 'remark-gfm', 'remark-slug', '@silvenon/remark-smartypants'],
+    rehypePlugins: ['rehype-autolink-headings'],
   }
 });

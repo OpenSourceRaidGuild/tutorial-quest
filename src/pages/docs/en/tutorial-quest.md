@@ -14,6 +14,7 @@ The OSS Raid Group is what happens when you combine MMORPGs (Gamification), Mob 
 
 For those who aren't aware of these 'gamer' terms, and even those that are; here are the definitions we use when operating as a Raid Guild.
 
+
 | Phrase                        | Definition                                                                                                                                                                                                                  |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Raid                          | A Raid is the OSS project's issue that we are working to resolve - see how we [converted react-hooks-testing-library to TypeScript](https://github.com/testing-library/react-hooks-testing-library/pull/520) for an example |
@@ -21,6 +22,7 @@ For those who aren't aware of these 'gamer' terms, and even those that are; here
 | Open Source Raid Guild (OSRG) | The collective noun for all contributors to the Raid                                                                                                                                                                        |
 | Raid Repo                     | The repository for the current Raid that has been forked into the OpenSourceRaidGuild Org                                                                                                                                   |
 | Dungeon                       | The working fork repository that the Raid is operating inside of; multiple Raids can occur in one Dungeon but only one Raid at a time                                                                                       |
+
 
 ## Storyline Quest (mission) :scroll:
 
@@ -45,7 +47,7 @@ What it's about:
   3. Our impact can be potentially high; in a few days
 -->
 
-## Join Us! :smiling_face_with_three_hearts:
+## Join Us! :smiling_face_with_3_hearts:
 
 Anyone is welcome to participate in our Raids - no matter your experience level! Never contributed to an OSS project? No worries! We are all learning something or another, so come along for the ride!
 

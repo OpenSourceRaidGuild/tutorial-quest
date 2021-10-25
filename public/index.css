@@ -25,8 +25,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
   font-family: var(--font-body);
-  font-size: 1rem;
-  font-size: clamp(0.9rem, 0.75rem + 0.375vw + var(--user-font-scale), 1rem);
+  font-size: clamp(1.00rem, 1.12rem + -0.61vw, 0.69rem);
   line-height: 1.5;
   max-width: 100vw;
 }
@@ -70,28 +69,30 @@ h2 {
 }
 
 h1 {
-  font-size: 3.25rem;
+  font-size: clamp(2.49rem, 2.33rem + 0.79vw, 2.89rem);
   font-weight: 800;
 }
 
 h2 {
-  font-size: 2.5rem;
+  font-size: clamp(2.07rem, 2.04rem + 0.19vw, 2.17rem);
 }
 
 h3 {
-  font-size: 1.75rem;
+  font-size: clamp(1.73rem, 1.77rem + -0.20vw, 1.63rem);
+  line-height:var(--padding-inline);
 }
 
 h4 {
-  font-size: 1.3rem;
+  font-size: clamp(1.44rem, 1.53rem + -0.43vw, 1.22rem);
 }
 
 h5 {
-  font-size: 1rem;
+  font-size: clamp(1.00rem, 1.12rem + -0.61vw, 0.69rem);
 }
 
 p {
-  line-height: 1.65em;
+  font-size: clamp(1.00rem, 1.12rem + -0.61vw, 0.69rem);
+  line-height: 1.5em;
 }
 
 .content ul {
@@ -105,7 +106,7 @@ p,
 
 small,
 .text_small {
-  font-size: 0.833rem;
+  font-size: clamp(0.83rem, 0.96rem + -0.62vw, 0.52rem);
 }
 
 a {
@@ -170,6 +171,7 @@ a > code:not([class*='language'])::before {
   background: var(--theme-accent);
   opacity: var(--theme-accent-opacity);
   border-radius: var(--border-radius);
+  
 }
 
 a:hover,
@@ -190,7 +192,6 @@ strong {
 /* Supporting Content */
 code {
   font-family: var(--font-mono);
-  font-size: 0.85em;
 }
 
 code:not([class*='language']) {
@@ -214,7 +215,7 @@ pre > code:not([class*='language']) {
 }
 
 pre > code {
-  font-size: 1em;
+  font-size: clamp(1.00rem, 1.12rem + -0.61vw, 0.69rem);
 }
 
 table,
@@ -229,7 +230,7 @@ pre {
   font-family: var(--font-mono);
 
   line-height: 1.5;
-  font-size: 0.85em;
+  font-size: clamp(0.83rem, 0.96rem + -0.62vw, 0.52rem);
   overflow-y: hidden;
   overflow-x: auto;
 }
@@ -301,7 +302,7 @@ button {
   border: 0;
   background: var(--theme-bg);
   display: flex;
-  font-size: 1rem;
+  font-size: clamp(1.00rem, 1.12rem + -0.61vw, 0.69rem);
   align-items: center;
   gap: 0.25em;
   border-radius: 99em;
@@ -310,7 +311,7 @@ button {
 }
 
 h2.heading {
-  font-size: 1rem;
+  font-size: clamp(1.00rem, 1.12rem + -0.61vw, 0.69rem);
   font-weight: 700;
   padding: 0.1rem 1rem;
   text-transform: uppercase;
@@ -318,7 +319,7 @@ h2.heading {
 }
 
 .header-link {
-  font-size: 1rem;
+  font-size: clamp(1.00rem, 1.12rem + -0.61vw, 0.69rem);
   padding: 0.1rem 0 0.1rem 1rem;
   border-left: 4px solid var(--theme-divider);
 }

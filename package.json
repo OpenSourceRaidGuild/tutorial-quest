@@ -1,8 +1,9 @@
 {
   "name": "tutorial-quest",
+  "version": "0.0.1",
   "description": "Find Target 🎯 Communicate 📡 Raid ⚔️ Push Code 🎉",
   "repository": "https://github.com/OpenSourceRaidGuild/tutorial-quest",
-  "private": true,
+  "homepage": "https://tutorial-quest.vercel.app/docs/en/tutorial-quest",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",

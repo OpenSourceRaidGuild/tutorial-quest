@@ -11,13 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@main
+        uses: actions/checkout@master
         with:
           # This makes Actions fetch all Git history so that Changesets can generate changelogs with the correct commits
           fetch-depth: 0
 
       - name: Setup Node.js 12.x
-        uses: actions/setup-node@main
+        uses: actions/setup-node@master
         with:
           node-version: 16.7
 
@@ -26,7 +26,7 @@ jobs:
 
       - name: Create Release Pull Request or Publish to npm
         id: changesets
-        uses: changesets/action@main
+        uses: changesets/action@master
         # This step should be check on alpha, beta or stable releases, publish Workflow Script dependant on the release type
         # with:
         #   # This expects you to have a script called release which does a build for your packages and calls changeset publish

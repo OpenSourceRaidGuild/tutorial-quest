@@ -30,7 +30,7 @@ jobs:
         # This step should be check on alpha, beta or stable releases, publish Workflow Script dependant on the release type
         # with:
         #   # This expects you to have a script called release which does a build for your packages and calls changeset publish
-        #   publish: yarn release
+        #   publish: yarn/npm release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
